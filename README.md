@@ -36,3 +36,13 @@ In order to do this you:
 5. Pick some of the demos and run them, as shown in the screenshot below.
 
 ![The Java Language Project](JavaLanguageExamples.png)
+
+### What will the agenda be? ###
+
+The pace of the delivery will very much be driven by your existing experience. We will have a discussion at the start to see how much of the material you are already familiar with (if any).
+
+Assuming everyone is already familiar with the basics, a rough agenda would be:
+
+1. *Monday* - Object Orientation. Principles of good class design. Refactoring and writing maintainable code. Inheritance and Polymorphism. Enumerations, Interfaces and Inner Classes.
+2. *Tuesday* - Exceptions. Generics. Test Driven Development. Annotations and Reflection. Performance testing.
+3. *Wednesday* - Effective use of Collections. Lambdas and Method References. Functional programming and the Streams API. Property Based Testing. Tailoring Garbage Collection.
