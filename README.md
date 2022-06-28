@@ -46,3 +46,14 @@ Assuming everyone is already familiar with the basics, a rough agenda would be:
 1. *Monday* - Object Orientation. Principles of good class design. Refactoring and writing maintainable code. Inheritance and Polymorphism. Enumerations, Interfaces and Inner Classes.
 2. *Tuesday* - Exceptions. Generics. Test Driven Development. Annotations and Reflection. Performance testing.
 3. *Wednesday* - Effective use of Collections. Lambdas and Method References. Functional programming and the Streams API. Property Based Testing. Tailoring Garbage Collection.
+
+### Reading mentioned on the delivery ###
+
+* [Article on PBT](https://blogs.oracle.com/javamagazine/post/know-for-sure-with-property-based-testing)
+* [Book on PBT](https://www.artima.com/shop/scalacheck)
+* [Conways Game Of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+* [Using lambdas as 'Thunks'](https://redux.js.org/usage/writing-logic-thunks)
+* [Project Reactor](https://projectreactor.io/)
+* [JetPack Compose](https://developer.android.com/jetpack/compose)
+* [The JTA Transaction Interface](https://docs.oracle.com/javaee/7/api/javax/transaction/Transaction.html)
+* [A great series of articles on the Streams API](https://developer.ibm.com/series/java-streams/)
