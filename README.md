@@ -60,4 +60,5 @@ Assuming everyone is already familiar with the basics, a rough agenda would be:
 * [RxJS Marbles](https://rxmarbles.com/)
 * [R2DBC](https://r2dbc.io/)
 * [Java Generics FAQ](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html)
+* [Generics White Paper](https://www.oracle.com/technetwork/java/javase/generics-tutorial-159168.pdf)
 * [Course Feedback form - code is CMEJA0622](https://instil.co/feedback/)
