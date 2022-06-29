@@ -57,3 +57,7 @@ Assuming everyone is already familiar with the basics, a rough agenda would be:
 * [JetPack Compose](https://developer.android.com/jetpack/compose)
 * [The JTA Transaction Interface](https://docs.oracle.com/javaee/7/api/javax/transaction/Transaction.html)
 * [A great series of articles on the Streams API](https://developer.ibm.com/series/java-streams/)
+* [RxJS Marbles](https://rxmarbles.com/)
+* [R2DBC](https://r2dbc.io/)
+* [Java Generics FAQ](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html)
+* [Course Feedback form - code is CMEJA0622](https://instil.co/feedback/)
